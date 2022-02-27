@@ -1,7 +1,8 @@
 # SO1_Corto1_Reposicion
 Reposición Examen Corto 1
 
-# Instrucciomes
+# Instrucciones
+- [ Video con las Instrucciones ](https://youtu.be/ECVD3j9KgMg)
 - modificar el endpoint /nota con el nombre del estudiante.
 - agregar un dockerfile para dockerizar el backend
 - crear la imagen del backend con el siguiente formato "USER-DOCKERHUB"/corto1_reposicion_"CARNET"
